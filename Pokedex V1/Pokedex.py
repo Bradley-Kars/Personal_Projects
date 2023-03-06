@@ -1374,3 +1374,5 @@ if pokemon in Pokedex:
         print(f"{property}: {value}")
 else:
     print("That Pokemon does not exist in the Pokedex.")
+
+input("Press any key to exit...")
