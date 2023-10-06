@@ -1,6 +1,11 @@
 primes = []
 
-amount = int(input("How many prime numbers would you like to generate?: "))
+while True:
+    try:
+        amount = int(input("How many prime numbers would you like to generate?: "))
+        break
+    except ValueError:
+        print('Invalid input. Please enter numeric values for "How many prime numbers would you like to generate?"')
 
 if amount >= 1:
     primes.append(2)
