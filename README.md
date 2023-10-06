@@ -6,7 +6,7 @@ Welcome to my GitHub repository dedicated to showcasing my tinkering and experim
 
 - **Repository Name:** Personal_Projects
 - **Project Type:** Personal Coding Experiments
-- **Number of Projects:** 2
+- **Number of Projects:** 4
 
 ## About Me
 
@@ -17,8 +17,14 @@ Hello, I'm Bradley Kars, an avid explorer of technology and coding enthusiast. A
 ### Pokedex V1 (Python)
 My first iteration of the Pokedex was crafted using Python. I delved into data manipulation and display, creating a simple yet functional version of this iconic digital encyclopedia for Pokemon. Using Python dictionaries, I mapped each Pokemon's name to its properties, including type, stats, and description. Users could input a Pokemon's name, and if it existed in the Pokedex, its properties were displayed.
 
-### Pokedex V2 (HTML & CSS)
-Version 2 of my Pokedex took a different route by using HTML and CSS. This project focused on web development to create an interactive and visually appealing Pokedex. A web form allowed users to select a Pokemon from a dropdown menu. Upon selection, the webpage dynamically populated with the chosen Pokemon's data, including its number, types, stats, and description. The use of HTML, CSS, and JavaScript provided an engaging user experience.
+### Pokedex V2 (HTML, CSS, JavaScript)
+Version 2 of my Pokedex took a different route by using HTML, CSS, and JavaScript. This project focused on web development to create an interactive and visually appealing Pokedex. A web form allowed users to select a Pokemon from a dropdown menu. Upon selection, the webpage dynamically populated with the chosen Pokemon's data, including its number, types, stats, and description. The use of HTML, CSS, and JavaScript provided an engaging user experience.
+
+### Prime Number Generator (Python)
+I also developed a Python script for generating the first 1000 prime numbers. This project demonstrates my mathematical and algorithmic skills, showcasing my ability to work on complex mathematical challenges.
+
+### Loan Payment Calculator (Python)
+In addition to my Pokedex projects, I created a Python script for a loan payment calculator. This tool helps users calculate their loan payments, demonstrating my ability to tackle financial challenges and develop practical applications for everyday use. These utilities expand my programming skills and highlight my versatility in handling diverse projects.
 
 ## Repository Structure
 
