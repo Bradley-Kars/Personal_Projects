@@ -6,7 +6,7 @@ Welcome to my GitHub repository dedicated to showcasing my tinkering and experim
 
 - **Repository Name:** Personal_Projects
 - **Project Type:** Personal Coding Experiments
-- **Number of Projects:** 2
+- **Number of Projects:** 3
 
 ## About Me
 
