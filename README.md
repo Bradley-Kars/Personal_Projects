@@ -21,17 +21,22 @@ My first iteration of the Pokedex was crafted using Python. I delved into data m
 Version 2 of my Pokedex took a different route by using HTML, CSS, and JavaScript. This project focused on web development to create an interactive and visually appealing Pokedex. A web form allowed users to select a Pokemon from a dropdown menu. Upon selection, the webpage dynamically populated with the chosen Pokemon's data, including its number, types, stats, and description. The use of HTML, CSS, and JavaScript provided an engaging user experience.
 
 ### Prime Number Generator (Python)
-I also developed a Python script for generating the first 1000 prime numbers. This project demonstrates my mathematical and algorithmic skills, showcasing my ability to work on complex mathematical challenges.
+This project allows users to specify the number of prime numbers they want to generate. Demonstrating my mathematical and algorithmic skills and showcasing my ability to work on complex mathematical challenges
 
 ### Loan Payment Calculator (Python)
-In addition to my Pokedex projects, I created a Python script for a loan payment calculator. This tool helps users calculate their loan payments, demonstrating my ability to tackle financial challenges and develop practical applications for everyday use. These utilities expand my programming skills and highlight my versatility in handling diverse projects.
+I created a Python script for a loan payment calculator. This tool helps users calculate their loan payments, demonstrating my ability to tackle financial challenges and develop practical applications for everyday use. These utilities expand my programming skills and highlight my versatility in handling diverse projects.
 
 ## Repository Structure
 
-The "Personal_Projects" repository houses distinct folders for each project:
+- **Pokedex:** This folder at the root of the repository contains both Pokedex projects:
+  - **Pokedex V1 (Python):** Within this subfolder, you'll find the code, resources, and documentation for the Python-based Pokedex V1 project.
+  - **Pokedex V2 (HTML & CSS):** Inside this subfolder, you can access the HTML, CSS, and JavaScript files, along with any relevant assets, for the HTML/CSS-based Pokedex V2 project.
 
-- **Pokedex V1 (Python):** This folder holds the code, resources, and documentation for the Python-based Pokedex V1 project.
-- **Pokedex V2 (HTML & CSS):** Within this folder, you'll find the HTML, CSS, and JavaScript files, along with any relevant assets, for the HTML/CSS-based Pokedex V2 project.
+- **Numbers:** The "Numbers" folder contains the following number-related projects:
+  - **Prime Number Generator (Python):** This subfolder contains code and documentation for a Python-based prime number generator, customizable for generating prime numbers of your choice.
+
+- **Calculators:** In the "Calculators" folder, you'll find various calculators I've designed:
+  - **Loan Payment Calculator (Python):** This subfolder contains a Python-based loan payment calculator project, demonstrating my financial problem-solving skills and versatile programming capabilities.
 
 ## Acknowledgments
 
