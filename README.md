@@ -1,12 +1,12 @@
 # Personal_Projects Repository: 🚀
 
-Welcome to my GitHub repository dedicated to showcasing my tinkering and experimentation with various personal projects under the aptly named "Personal_Projects" repository. Here, I dive into different ideas and concepts, bringing them to life through code. Currently, the repository features two distinct attempts at creating a Pokedex. Version 1 (V1) was crafted in Python, while Version 2 (V2) is a blend of HTML and CSS.
+Welcome to my GitHub repository dedicated to showcasing my tinkering and experimentation with various personal projects under the aptly named "Personal_Projects" repository. Here, I dive into different ideas and concepts, bringing them to life through code. Currently, the repository features a diverse set of projects, including Pokedex V1 (Python), Pokedex V2 (HTML, CSS, JavaScript), Prime Number Generator (Python), Loan Payment Calculator (Python), and now, a new addition: Bingo Card Generator (Python).
 
 ## Repository Details
 
 - **Repository Name:** Personal_Projects
 - **Project Type:** Personal Coding Experiments
-- **Number of Projects:** 4
+- **Number of Projects:** 5
 
 ## About Me
 
@@ -21,10 +21,13 @@ My first iteration of the Pokedex was crafted using Python. I delved into data m
 Version 2 of my Pokedex took a different route by using HTML, CSS, and JavaScript. This project focused on web development to create an interactive and visually appealing Pokedex. A web form allowed users to select a Pokemon from a dropdown menu. Upon selection, the webpage dynamically populated with the chosen Pokemon's data, including its number, types, stats, and description. The use of HTML, CSS, and JavaScript provided an engaging user experience.
 
 ### Prime Number Generator (Python)
-This project allows users to specify the number of prime numbers they want to generate. Demonstrating my mathematical and algorithmic skills and showcasing my ability to work on complex mathematical challenges
+This project allows users to specify the number of prime numbers they want to generate. Demonstrating my mathematical and algorithmic skills and showcasing my ability to work on complex mathematical challenges.
 
 ### Loan Payment Calculator (Python)
 I created a Python script for a loan payment calculator. This tool helps users calculate their loan payments, demonstrating my ability to tackle financial challenges and develop practical applications for everyday use. These utilities expand my programming skills and highlight my versatility in handling diverse projects.
+
+### Bingo Card Generator (Python)
+The latest addition to my repository is the Bingo Card Generator, a Python script that generates bingo cards with random numbers. It's a fun and interactive addition to my collection, showcasing my creativity and coding skills.
 
 ## Repository Structure
 
@@ -37,6 +40,9 @@ I created a Python script for a loan payment calculator. This tool helps users c
 
 - **Calculators:** In the "Calculators" folder, you'll find various calculators I've designed:
   - **Loan Payment Calculator (Python):** This subfolder contains a Python-based loan payment calculator project, demonstrating my financial problem-solving skills and versatile programming capabilities.
+
+- **Generators:** The "Generators" folder is made up of generators ive made for diffrent kinds of projects:
+  - **Bingo Card Generator (Python):** where you can find the code and documentation for this exciting new addition to my personal projects.
 
 ## Acknowledgments
 
