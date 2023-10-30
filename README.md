@@ -41,8 +41,9 @@ The latest addition to my repository is the Bingo Card Generator, a Python scrip
 - **Calculators:** In the "Calculators" folder, you'll find various calculators I've designed:
   - **Loan Payment Calculator (Python):** This subfolder contains a Python-based loan payment calculator project, demonstrating my financial problem-solving skills and versatile programming capabilities.
 
-- **Generators:** The "Generators" folder is made up of generators ive made for diffrent kinds of projects:
-  - **Bingo Card Generator (Python):** where you can find the code and documentation for this exciting new addition to my personal projects.
+- **Generators:** The "Generators" folder is made up of generators I've made for different kinds of projects:
+  - **Bingo Card Generator (Python):** Within this section, you'll find the code for my Bingo Card Generator. This project demonstrates my creativity and coding skills, offering a fun and interactive way to generate bingo cards with random numbers.
+
 
 ## Acknowledgments
 
