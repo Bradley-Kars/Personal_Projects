@@ -18,6 +18,10 @@ while True:
     total_numbers = len(random_numbers)
     percentage_dict = {number: (count / total_numbers) * 100 for number, count in number_counts.items()}
 
+    for i in range(10):
+        if i not in percentage_dict:
+            percentage_dict[i] = 0
+
     if all_same_percentage(percentage_dict):
         print(f"Final result after {iteration} iterations:")
         for number, percentage in sorted(percentage_dict.items()):
