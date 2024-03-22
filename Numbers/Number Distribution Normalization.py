@@ -9,7 +9,7 @@ def all_same_percentage(percentage_dict):
 
 num_random_numbers = int(input("Enter the number of random numbers to generate: "))
 
-random_numbers = [random.randint(0, 9) for _ in range(num_random_numbers)]
+random_numbers = [random.randint(0, 9) for _ in range(num_random_numbers * 10)]
 
 iteration = 0
 
