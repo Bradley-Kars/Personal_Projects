@@ -37,6 +37,7 @@ The latest addition to my repository is the Bingo Card Generator, a Python scrip
 
 - **Numbers:** The "Numbers" folder contains the following number-related projects:
   - **Prime Number Generator (Python):** This subfolder contains code and documentation for a Python-based prime number generator, customizable for generating prime numbers of your choice.
+  - **Number Distribution Normalization (Python):** This script allows for the normalization of number distribution over iterations. It generates random numbers and adjusts their distribution until the likelihood of a number spawning and the total count of each number have both normalized.
 
 - **Calculators:** In the "Calculators" folder, you'll find various calculators I've designed:
   - **Loan Payment Calculator (Python):** This subfolder contains a Python-based loan payment calculator project, demonstrating my financial problem-solving skills and versatile programming capabilities.
