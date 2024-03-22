@@ -29,6 +29,9 @@ I created a Python script for a loan payment calculator. This tool helps users c
 ### Bingo Card Generator (Python)
 The latest addition to my repository is the Bingo Card Generator, a Python script that generates bingo cards with random numbers. It's a fun and interactive addition to my collection, showcasing my creativity and coding skills.
 
+### Number Distribution Normalization (Python)
+This script normalizes the distribution of randomly generated numbers by iteratively adjusting spawn rates. It achieves this by calculating the percentage of occurrence for each number in the generated set and then inverting these percentages. The inverted percentages are used to generate a new set of random numbers, and this process repeats until all numbers have an equal chance of spawning. Through this inversion technique, the script dynamically adjusts the distribution of numbers to achieve normalization.
+
 ## Repository Structure
 
 - **Pokedex:** This folder at the root of the repository contains both Pokedex projects:
