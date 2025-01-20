@@ -1,0 +1,113 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{fontspec}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage{tikz}
+
+% Set fonts
+\newfontface\namefont{Georgia}[Contextuals={WordInitial,WordFinal}]{}
+
+% Header Setup
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\namefont\textbf{Bradley Kars}}
+\fancyhead[R]{\namefont\texttt{bradley.kars@example.com | www.linkedin.com/in/bradleykars}}
+
+% Title Format
+\titleformat{\section}[block]{\Large\bfseries\color{blue}}{}{0em}{}
+\titleformat{\subsection}[runin]{\bfseries}{\thesubsection}{0.5em}{}
+\titleformat{\subsubsection}[runin]{\itshape}{\thesubsubsection}{0.5em}{}
+\titleformat{\paragraph}[runin]{}{•}{1em}{}
+
+% Color
+\definecolor{headingcolor}{RGB}{0, 103, 153}
+\definecolor{bodytext}{RGB}{50, 50, 50}
+
+% Line spacing
+\renewcommand{\baselinestretch}{1.15}
+
+% Document begins
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{Bradley Kars}} \\
+    \href{mailto:bradley.kars@proton.me}{Bradley.Kars@proton.me} | \href{https://www.linkedin.com/in/bradleykars}{LinkedIn} | \href{https://bradley-kars.github.io/}{Portfolio} | Reunion, FL
+\end{center}
+
+\section*{Profile}
+Experienced IT professional specializing in system administration, technical support, and troubleshooting within healthcare and tech. Skilled in system optimization, security protocols, and user satisfaction.
+
+\section*{Education}
+\noindent\textbf{Master’s in Cybersecurity Management}, Purdue University Global \hfill \textit{Expected: 2025} \\
+\noindent\textbf{Bachelor’s in Cybersecurity - Game Development}, Purdue University Global \hfill \textit{GPA: 3.99} \\
+\noindent\textbf{Associate in Information Technology}, Purdue University Global \hfill \textit{GPA: 4.0}
+
+\section*{Certifications}
+
+\noindent \textbf{Google:} 
+\begin{itemize}[left=2em, label=--]
+    \item \textbf{Google IT Support Specialization:}
+    \begin{itemize}[left=4em, label=--]
+        \item Technical Support Fundamentals
+        \item The Bits and Bytes of Computer Networking
+        \item Operating Systems and You: Becoming a Power User
+        \item System Administration and IT Infrastructure Services
+        \item IT Security: Defense Against the Digital Dark Arts
+    \end{itemize}
+\end{itemize}
+
+\noindent \textbf{freeCodeCamp:} 
+\begin{itemize}[left=2em, label=--]
+    \item Responsive Web Design
+\end{itemize}
+
+
+\section*{Work Experience}
+\noindent \textbf{Technical Product Support Specialist, Aesto Health} \hfill \textit{Aug 2024 - Sep 2024} \\
+\begin{itemize}
+    \item Led migration for 500+ client hospitals, ensuring data integrity and achieving 95\% client satisfaction.
+    \item Troubleshot and resolved technical issues related to healthcare IT systems.
+    \item Provided technical support and training to users on new product features.
+\end{itemize}
+
+\noindent \textbf{Support Engineer, Artisight} \hfill \textit{Jan 2024 - May 2024} \\
+\begin{itemize}
+    \item Improved client feedback by 15\% through process optimizations and documentation.
+    \item Developed technical documentation and knowledge base for troubleshooting.
+    \item Provided IT support for system integration and optimization.
+\end{itemize}
+
+\noindent \textbf{Table Game Dealer, Grand Casino Mille Lacs \& Hinckley} \hfill \textit{Jun 2014 - Jan 2022} \\
+\begin{itemize}
+    \item Minnesota State Licensed Table Games Dealer.
+    \item Dealt Blackjack, Ultimate Texas Hold'em, Three Card Poker, Mississippi Stud, and Four Card Poker.
+    \item Provided exceptional customer service while managing large sums of money.
+    \item Maintained a professional demeanor and adhered to all casino regulations.
+\end{itemize}
+
+\noindent \textbf{Store Team Lead, MarketSource Inc.} \hfill \textit{Nov 2019 - Mar 2020} \\
+\begin{itemize}
+    \item Led a team of sales associates, achieving high sales performance.
+    \item Developed strategies to increase sales and improve customer satisfaction.
+    \item Trained new staff and ensured adherence to store protocols.
+\end{itemize}
+
+\noindent \textbf{Salesperson, Best Buy} \hfill \textit{Oct 2015 - Apr 2016} \\
+\begin{itemize}
+    \item Specialized in troubleshooting and resolving customer issues with electronics.
+    \item Provided up-to-date product knowledge and upselling techniques.
+    \item Ensured positive customer experiences and loyalty through expert advice.
+\end{itemize}
+
+\section*{Technical Skills}
+\noindent \textbf{Software:} Windows, Office 365, Azure, SQL Server, S3 Browser, Remote Desktop, Virtualization, Electronic Medical Record (EMR) Systems, Point of Sale (POS) Systems \\
+\noindent \textbf{Programming:} Python, JavaScript, HTML/CSS, SQL \\
+\noindent \textbf{Networking:} TCP/IP, DNS, DHCP, VPN, Firewalls \\
+\noindent \textbf{Tools:} Azure Data Studio, SQL Management Studio, Google Admin, Ticketing Systems, IT Service Management (ITSM)
+
+\end{document}
